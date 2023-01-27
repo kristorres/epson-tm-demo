@@ -8,6 +8,6 @@
 
 <Screen full>
     <Appbar center slot="title">
-        Mobil Ave
+        Epson TM Demo
     </Appbar>
 </Screen>

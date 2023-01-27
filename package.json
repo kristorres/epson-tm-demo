@@ -1,5 +1,5 @@
 {
-  "name": "ipad-client-template",
+  "name": "epson-tm-demo",
   "description": "",
   "version": "1.0.0",
   "author": {
@@ -36,6 +36,6 @@
     }
   },
   "scripts": {
-    "build": "rollup -c && cordova build && rsync -a --delete icon/ platforms/ios/'Mobil Ave'/Images.xcassets/AppIcon.appiconset"
+    "build": "rollup -c && cordova build && rsync -a --delete icon/ platforms/ios/'Epson TM Demo'/Images.xcassets/AppIcon.appiconset"
   }
 }
