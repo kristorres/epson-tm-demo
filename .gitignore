@@ -1,0 +1,10 @@
+# Finder metadata
+.DS_Store
+
+# npm
+/node_modules/
+/www/
+
+# Cordova
+/platforms/
+/plugins/
