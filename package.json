@@ -21,6 +21,9 @@
     "cordova": "^11.1.0",
     "cordova-custom-config": "^5.1.1",
     "cordova-ios": "^6.2.0",
+    "cordova-plugin-add-swift-support": "^2.0.2",
+    "cordova-plugin-dialogs": "^2.0.2",
+    "cordova-plugin-epson-tm": "^0.1.0",
     "cordova-plugin-statusbar": "^3.0.0",
     "rollup": "^2.78.1",
     "rollup-plugin-delete": "^2.0.0",
@@ -32,6 +35,8 @@
     ],
     "plugins": {
       "cordova-custom-config": {},
+      "cordova-plugin-dialogs": {},
+      "cordova-plugin-epson-tm": {},
       "cordova-plugin-statusbar": {}
     }
   },
