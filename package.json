@@ -1,12 +1,6 @@
 {
   "name": "epson-tm-demo",
-  "description": "",
   "version": "1.0.0",
-  "author": {
-    "name": "Kris Torres",
-    "email": "torres-kris@outlook.com",
-    "url": "https://kristorres.github.io"
-  },
   "private": true,
   "dependencies": {
     "svelte": "^3.49.0",
@@ -20,7 +14,7 @@
     "@rollup/plugin-node-resolve": "^11.0.1",
     "cordova": "^12.0.0",
     "cordova-custom-config": "^5.1.1",
-    "cordova-ios": "^6.2.0",
+    "cordova-ios": "^7.0.1",
     "cordova-plugin-add-swift-support": "^2.0.2",
     "cordova-plugin-dialogs": "^2.0.2",
     "cordova-plugin-epson-tm": "^0.1.0",

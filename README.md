@@ -2,7 +2,7 @@ Epson TM Printer Demo
 =====================
 
 <p>
-    <img src="https://img.shields.io/badge/Svelte-3-orange?style=for-the-badge&logo=svelte"/>
+    <img src="https://img.shields.io/badge/Svelte-3-ff3e00?style=for-the-badge&logo=svelte" alt="" />
 </p>
 
 Quick Overview
